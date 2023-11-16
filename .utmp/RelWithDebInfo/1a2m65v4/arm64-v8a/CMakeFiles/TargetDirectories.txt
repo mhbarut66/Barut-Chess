@@ -1,0 +1,5 @@
+C:/Users/mhbar/UnityProjects/Barut Chess/.utmp/RelWithDebInfo/1a2m65v4/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/mhbar/UnityProjects/Barut Chess/.utmp/RelWithDebInfo/1a2m65v4/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/mhbar/UnityProjects/Barut Chess/.utmp/RelWithDebInfo/1a2m65v4/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/mhbar/UnityProjects/Barut Chess/.utmp/RelWithDebInfo/1a2m65v4/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/mhbar/UnityProjects/Barut Chess/.utmp/RelWithDebInfo/1a2m65v4/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
